@@ -17,6 +17,15 @@ First, install the dependencies:
 $ npm i
 ```
 
+## ⚙️ Configuration ⚙️
+
+To run the app, you need to create a `.env` file at the root of the project and add the following line:
+```bash
+VITE_API_KEY=YOUR_API_KEY
+```
+
+You can get your API key by creating an account on [NewsAPI](https://newsapi.org/).
+
 ## 🚀 Running the app 🚀
 
 To run the app, you can use the following command:
